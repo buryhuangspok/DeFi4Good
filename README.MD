@@ -1,5 +1,5 @@
 
-# Secure Integral Protocol as CherryTree (Charity DeFi)
+# CherryTree: Secure Integral Protocol for Charity+DeFi
 ### Intiaited by CharityBlock and DeFiner.Org
 
 CherryTree as Charity DeFi protocol to serve as a standard for charity organization and individual to securely and efficiently communicate, operate and grow the fundings.
